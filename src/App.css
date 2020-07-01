@@ -96,6 +96,7 @@ button {
   width: 19%;
   border-radius: 0 25px 25px 0;
   border: none;
+  background-color: lightgray;
 }
 .App-link {
   color: #61dafb;

@@ -34,10 +34,11 @@ h1 {
   font-size: 2rem;
   padding: 20px;
 }
+/* display word */
 h2 {
   color: var(--mainColor);
   background-color: var(--accentColor);
-  padding: 0 15px 12px;
+  padding: 0 15px;
   margin: 20px;
   border-radius: 15px;
 }

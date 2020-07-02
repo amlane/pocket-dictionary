@@ -7,6 +7,7 @@
 :root {
   --mainColor: pink;
   --accentColor: gray;
+  --fontColor: #282c34;
 }
 
 .App {
@@ -63,7 +64,7 @@ h5 {
   padding: 10px;
   margin: 10px 5px;
   background: var(--mainColor);
-  color: var(--accentColor);
+  color: var(--fontColor);
   border-radius: 15px;
 }
 .definition {
@@ -71,7 +72,7 @@ h5 {
   padding: 10px;
   margin: 10px 20px;
   background: var(--mainColor);
-  color: var(--accentColor);
+  color: var(--fontColor);
   border-radius: 15px;
 }
 form {
